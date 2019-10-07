@@ -4,7 +4,7 @@ Recognize the age and gender based on face image
 
 Using machine learning techinque to detect the age and gender based on face image automatically.
 
-The tools I used: SVM,ANN(for age estimation) SRC(for gender detection)
+The tools I used are: SVM,ANN(for age estimation) SRC(for gender detection)
 
 Also the code is written by MATLB
 
